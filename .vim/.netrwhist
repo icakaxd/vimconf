@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/icakad/.vim/pack/flake8/start'
+let g:netrw_dirhist_2='/home/icakad/.vim/pack/flake8/start/vim-flake8'
+let g:netrw_dirhist_3='/home/icakad/.vim/pack/flake8/start/vim-flake8/autoload'
+let g:netrw_dirhist_4='/home/icakad'
+let g:netrw_dirhist_5='/home/icakad/code'
+let g:netrw_dirhist_6='/home/icakad/code/python'
+let g:netrw_dirhist_7='/home/icakad/code/python/bots'
+let g:netrw_dirhist_8='/home/icakad/code/python/bots/SatanicBot2.0'
